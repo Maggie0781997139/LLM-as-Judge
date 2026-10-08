@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What are the admission requirements?",
+        "expected_answer": "The admission requirements vary depending on the program. Generally, undergraduate programs require a high school diploma or equivalent with a minimum GPA, standardized test scores (like SAT or ACT) if applicable, and proof of English proficiency for international students. Graduate programs typically require a bachelor's degree, letters of recommendation, and a statement of purpose. Please check the specific program page for detailed requirements.",
+        "category": "admission"
+    },
+    {
+        "question": "How do I apply for a scholarship?",
+        "expected_answer": "To apply for a scholarship, first log in to the student portal and navigate to the 'Financial Aid' section. There you will find a list of available scholarships. Fill out the general scholarship application form by the deadline, which is typically March 1st for the upcoming academic year. Some specific scholarships may require additional essays or documents.",
+        "category": "fees"
+    },
+    {
+        "question": "What is the tuition fee for undergraduate programs?",
+        "expected_answer": "Tuition fees for undergraduate programs are calculated based on the number of credits taken. For domestic students, the fee is generally $350 per credit hour. For international students, it is $750 per credit hour. A typical full-time load of 15 credits per semester would cost $5,250 for domestic students and $11,250 for international students. Additional fees for amenities and labs may apply.",
+        "category": "fees"
+    },
+    {
+        "question": "How do I register for courses?",
+        "expected_answer": "Course registration is done entirely online through the University Registrar system. Log in using your student ID, go to 'Academics', and select 'Course Registration'. You can search for classes by term, subject, or course number. Make sure to consult with your academic advisor before registering, and check your assigned registration time slot.",
+        "category": "academic"
+    },
+    {
+        "question": "What are the examination regulations?",
+        "expected_answer": "Students must arrive at the examination hall at least 15 minutes before the start time. Valid student ID must be placed on the desk. No electronic devices, including smartwatches, are allowed unless explicitly permitted by the instructor. Any form of cheating or academic misconduct will result in severe penalties, up to and including expulsion.",
+        "category": "regulations"
+    },
+    {
+        "question": "Where is the library located?",
+        "expected_answer": "The main campus library, the Central Library, is located at the center of the campus in Building 42, next to the Student Union. We also have specialized libraries for Law, Medicine, and Engineering in their respective college buildings.",
+        "category": "student_services"
+    },
+    {
+        "question": "What are the graduation requirements?",
+        "expected_answer": "To graduate with a bachelor's degree, you must complete a minimum of 120 credit hours, fulfill all core curriculum and major-specific requirements, and maintain a cumulative GPA of 2.0 or higher. You must also submit a 'Declaration of Intent to Graduate' form in the first month of your final semester.",
+        "category": "academic"
+    },
+    {
+        "question": "How do I apply for student accommodation?",
+        "expected_answer": "Applications for on-campus housing can be submitted through the Housing Portal. First-year students are guaranteed housing if they apply by May 1st. You will need to pay a non-refundable application fee and a housing deposit. You can also specify roommate preferences during the application process.",
+        "category": "student_services"
+    },
+    {
+        "question": "What departments does the university have?",
+        "expected_answer": "Our university comprises several colleges: the College of Arts and Sciences, the College of Engineering, the College of Business, the College of Education, and the College of Health Sciences. Each college has multiple departments, such as Computer Science, Biology, History, Accounting, and Nursing.",
+        "category": "departments"
+    },
+    {
+        "question": "How do I get my transcript?",
+        "expected_answer": "Official transcripts can be requested online through the Registrar's Office website or in person at the Student Services Center. There is a fee of $10 per official transcript. Unofficial transcripts can be downloaded for free at any time through your student portal.",
+        "category": "academic"
+    }
+]
